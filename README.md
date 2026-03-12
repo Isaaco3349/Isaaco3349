@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Isaac
-- 👀 I’m interested in Blockchain Technology.
-- 🌱 I’m currently learning solidity development.
-- 💞️ I’m looking to collaborate on Web3 development.
-- 📫 How to reach me mail> Isaaconyeomah@gmail.com, twitter> https://twitter.com/isaachavertzz, Linkedin> https://www.linkedin.com/in/isaac-onyeoma-2a048b288/overlay/contact-info/
+# Hey, I'm Isaac — Havertz 👋
 
-<!---
-Isaaco3349/Isaaco3349 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔵 Onchain builder from Nigeria, shipping AI-powered Web3 products on Base.
+
+## What I'm Building
+- ⚡ **MetricFlow** — Farcaster engagement agent that rewards users with ETH on Base via Coinbase AgentKit
+- 💳 **Nexus-Pay** — Web3 payment infrastructure
+- 📊 **DeFi Tracker** — Onchain portfolio tracking tool
+
+## Stack
+- **Languages:** TypeScript, Solidity
+- **Web3:** Base, Coinbase AgentKit, Neynar, ERC-8021
+- **AI:** Claude, LangChain, LangGraph
+- **Tools:** Next.js, Express, GitHub Actions
+
+## About Me
+- 🌍 Building from Nigeria — representing Africa in the Base ecosystem
+- 🤖 AI-augmented builder — using Claude as my co-developer
+- 🏆 Redbelly Network Ambassador
+- 🔵 Base Ecosystem builder — `Havertz.base.eth`
+- 📫 Reach me: isaaconyeomah@gmail.com
+- 🐦 X: [@Havertz3349](https://x.com/Havertz3349)
+
+---
+*"The barriers to building onchain are falling — and Africa is ready."*
