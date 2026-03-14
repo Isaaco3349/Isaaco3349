@@ -1,11 +1,11 @@
 # Hey, I'm Isaac — Havertz 👋
-
 🔵 Onchain builder from Nigeria, shipping AI-powered Web3 products on Base.
 
 ## What I'm Building
 - ⚡ **MetricFlow** — Farcaster engagement agent that rewards users with ETH on Base via Coinbase AgentKit
 - 💳 **Nexus-Pay** — Web3 payment infrastructure
 - 📊 **DeFi Tracker** — Onchain portfolio tracking tool
+- 🔨 **Arc Forge** — AI-powered code generator for Circle's stablecoin-native stack (USDC, CCTP, Arc)
 
 ## Stack
 - **Languages:** TypeScript, Solidity
