@@ -3,7 +3,7 @@
 
 ## What I'm Building
 - ⚡ **MetricFlow** — Farcaster engagement agent that rewards users with ETH on Base via Coinbase AgentKit
-- 💳 **Nexus-Pay** — Web3 payment infrastructure
+- 💳 **Nexus-Pay** — Tempo Network payment infrastructure
 - 📊 **DeFi Tracker** — Onchain portfolio tracking tool
 - 🔨 **Arc Forge** — AI-powered code generator for Circle's stablecoin-native stack (USDC, CCTP, Arc)
 
@@ -22,4 +22,4 @@
 - 🐦 X: [@Havertz3349](https://x.com/Havertz3349)
 
 ---
-*"The barriers to building onchain are falling — and Africa is ready."*
+*"The barriers to building onchain are neglected — and Africa is ready."*
