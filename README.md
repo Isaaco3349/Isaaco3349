@@ -6,6 +6,7 @@
 - 💳 **Nexus-Pay** — Tempo Network payment infrastructure
 - 📊 **DeFi Tracker** — Onchain portfolio tracking tool
 - 🔨 **Arc Forge** — AI-powered code generator for Circle's stablecoin-native stack (USDC, CCTP, Arc)
+- 🔵 **PolyPulse** - A real-time Polymarket analytics dashboard built with Next.js 16 and Tailwind CSS.
 
 ## Stack
 - **Languages:** TypeScript, Solidity
