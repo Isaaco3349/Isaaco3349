@@ -1,5 +1,5 @@
-# Hey, I'm Isaac — Havertz 👋
-🔵 Onchain builder from Nigeria, shipping AI-powered Web3 products across Base and Redbelly Network.
+# Hey, I'm Isaac — Havertz 
+🔵 Onchain builder from Nigeria, shipping AI-powered Web3 products.
 
 ## What I'm Building
 ⚡ MetricFlow — Farcaster engagement agent that rewards users with ETH on Base via Coinbase AgentKit
