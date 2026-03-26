@@ -3,16 +3,12 @@
 
 ## What I'm Building
 ⚡ MetricFlow — Farcaster engagement agent that rewards users with ETH on Base via Coinbase AgentKit
-
 💳 Nexus-Pay — Tempo Network payment infrastructure
-
 📊 DeFi Tracker — Onchain portfolio tracking tool
-
 🔨 Arc Forge — AI-powered code generator for Circle's stablecoin-native stack (USDC, CCTP, Arc)
-
 🔵 PolyPulse — Real-time Polymarket analytics dashboard built with Next.js 16 and Tailwind CSS
-
 🛡️ VeritasAI — Full-stack AI compliance agent for RWA issuers on Redbelly Network (KYC, AML, on-chain audit trails)
+🌙 ZKPilot — AI-powered dApp copilot for building privacy-first apps on Midnight Network using zero-knowledge proofs
 
 ## Stack
 - **Languages:** TypeScript, Solidity
